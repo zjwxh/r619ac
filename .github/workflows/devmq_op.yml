@@ -29,7 +29,7 @@ env:
   REPO_BRANCH: dev-master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .mqconfig
-  DIY_P1_SH: dev_mq1.sh
+  DIY_P1_SH: dev1.sh
   DIY_P2_SH: mq2.sh
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
