@@ -26,7 +26,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: dev-master
+  REPO_BRANCH: rebase-19.07-5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .mqconfig
   DIY_P1_SH: mq1.sh
