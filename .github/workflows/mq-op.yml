@@ -31,7 +31,7 @@ env:
   CONFIG_FILE: .mqconfig
   DIY_P1_SH: mq1.sh
   DIY_P2_SH: mq2.sh
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
