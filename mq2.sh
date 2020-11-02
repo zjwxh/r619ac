@@ -12,4 +12,4 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 #cd package
 #git clone https://github.com/destan19/OpenAppFilter.git
-git clone https://github.com/liuran001/openwrt-packages.git package
+git clone https://github.com/liuran001/openwrt-packages package
